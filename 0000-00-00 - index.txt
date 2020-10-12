@@ -92,8 +92,8 @@ mm/dd/yyyy | hh:mm:ss | bitly → github | video title + (participants)
 07/20/2019 | 01:08:40 | bit.ly/2SEGQBF | Hawk Jones, Winterbeast, and ROAR
 08/06/2019 | 01:03:47 | bit.ly/2Il1yVn | Demon Cop, Alien Force, Game of Survival
 08/23/2019 | 00:33:15 | bit.ly/34Hpee1 | Dolomite, The Human Tornado
-09/15/2019 | 01:19:49 | m2IV0BajqAk | The Instructor, Through Doohan's Eye, and Twisted Pair
-10/24/2019 | 01:12:07 | 26si7WjhV-g | Christmas with Dennis, The Thing About Money, Shape Up America
+09/05/2019 | 01:19:49 | bit.ly/34TsLWN | The Instructor, Through Doohan's Eye, and Twisted Pair
+10/24/2019 | 01:12:07 | bit.ly/3dmYtPH | Christmas with Dennis, The Thing About Money, Shape Up America
 10/28/2019 | 01:22:49 | X7_ZU4dlqXk | Jack-O, Rock n' Roll Nightmare, and Shark Exorcist
 12/15/2019 | 01:07:03 | ScgaYFvuBFM | Santa Claws, ICED, Silent Night, Deadly Night Part 2
 01/11/2020 | 00:39:21 | hoel2EiTjLU | Wicked World
