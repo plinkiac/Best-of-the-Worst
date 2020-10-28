@@ -100,6 +100,7 @@ mm/dd/yyyy | hh:mm:ss | bitly → github | video title + (participants)
 02/06/2020 | 01:20:34 | 9M39zY9OXFA | Kelly Bear Teaches Respectfulness, The Gospel According to St. Bernard, Fire Safety for Older Adults, If You Love Me, Show Me, 
 03/07/2020 | 01:12:11 | eHhLZi4sj0k | Showdown, Robot in the Family, and Bloodz vs. Wolvez
 06/20/2020 | 00:59:11 | kuS8ek6OM44 | Computer Beach Party, Mission: Killfast
-07/19/2020 | 01:10:32 | o4eSVXCzRyI | Best of the Worst 21: Get a Safe Food Attitude, How to Host a Princess Party, Massaging the Elderly (Mike, Jay, Rich, Josh)
-09/07/2020 | 01:03:24 | eEKKVSjw6JY | Diamond Cobra vs. The White Fox
-10/10/2020 | 01:17:18 | bit.ly/3jPUg9I | Twin Dragon Encounter, American Rickshaw, and Infested
+07/19/2020 | 01:10:32 | bit.ly/3kFkPiy | Best of the Worst 21: Get a Safe Food Attitude, How to Host a Princess Party, Massaging the Elderly (Mike, Jay, Rich, Josh)
+09/07/2020 | 01:03:24 | bit.ly/2HAzQUy | Diamond Cobra vs. The White Fox (Mike, Jay, Rich)
+10/10/2020 | 01:17:18 | bit.ly/3jPUg9I | Twin Dragon Encounter, American Rickshaw, and Infested (Mike, Jay, Rich, Jack)
+10/28/2020 | 01:31:50 | bit.ly/3jEJtye | Shock Em Dead, Hollow Gate, and The Satan Killer (Mike, Jay, Rich, Josh)
