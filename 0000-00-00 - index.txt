@@ -104,3 +104,5 @@ mm/dd/yyyy | hh:mm:ss | bitly → github | video title + (participants)
 09/07/2020 | 01:03:24 | bit.ly/2HAzQUy | Diamond Cobra vs. The White Fox (Mike, Jay, Rich)
 10/10/2020 | 01:17:18 | bit.ly/3jPUg9I | Twin Dragon Encounter, American Rickshaw, and Infested (Mike, Jay, Rich, Jack)
 10/28/2020 | 01:31:50 | bit.ly/3jEJtye | Shock Em Dead, Hollow Gate, and The Satan Killer (Mike, Jay, Rich, Josh)
+
+https://docs.google.com/spreadsheets/d/1Lbo03FEB9kzeyXlbPBkksdPO64GQF99k7nrwRXLgBt8/edit#gid=0
