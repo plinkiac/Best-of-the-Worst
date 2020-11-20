@@ -1,4 +1,4 @@
-mm/dd/yyyy | hh:mm:ss | bitly → github | video title + (participants)
+mm/dd/yyyy | hh:mm:ss | x → transcript | video title + (participants)
 
 01/18/2013 | 00:33:19 | bit.ly/3d7QZ2U | Russian Terminator, Ninja Vengeance, and Never Too Young To Die (Mike, Rich, Jay, Josh)
 02/01/2013 | 00:31:21 | bit.ly/30BtUAM | The New Gladiators, Exterminator 2, Aftermath (Jay, Rich, Jack, Josh)
